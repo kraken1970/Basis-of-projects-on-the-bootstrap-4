@@ -63,7 +63,7 @@ body {
 .tarhan7 {
   /*width: 200px;
   height: 200px;*/
-  border: 10px solid gray;
+  border: 8px solid gray;
 }
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
